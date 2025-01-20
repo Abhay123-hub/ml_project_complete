@@ -1,0 +1,10 @@
+[ 2025-01-20 11:14:21,513 ] 25 root - INFO - Entered into data ingestion pipeline
+[ 2025-01-20 11:14:21,524 ] 29 root - INFO - splitting the data into train and test
+[ 2025-01-20 11:14:21,531 ] 37 root - INFO - data ingestion pipeline completed
+[ 2025-01-20 11:14:21,550 ] 68 root - INFO - loaded training and testing data into my local system
+[ 2025-01-20 11:14:21,552 ] 50 root - INFO - categorical columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-01-20 11:14:21,552 ] 51 root - INFO - numerical columns:['reading_score', 'writing_score']
+[ 2025-01-20 11:14:21,566 ] 78 root - INFO - successfully transformed my train data and test data
+[ 2025-01-20 11:14:21,568 ] 83 root - INFO - saved processor object for transformation
+[ 2025-01-20 11:14:21,568 ] 35 root - INFO - splitting the data into training and testing data
+[ 2025-01-20 11:15:15,621 ] 104 root - INFO - Saving my best machine learning model
